@@ -3,7 +3,8 @@ Cousera Course HTML, CSS, and Javascript for Web Developers
 
 ## Assignment Module 2
 
-THis is my first attempt, not quite right, still figuring out how to fix the second line on a tablet
+THis is my first attempt, not quite right. <br> 
+Still working on the second line for tablet-size devices. <br>
 Thanks for reviewing!
 
 * [index.html](module2-solution/index.html)
