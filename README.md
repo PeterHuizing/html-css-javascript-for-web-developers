@@ -6,7 +6,7 @@ Cousera Course HTML, CSS, and Javascript for Web Developers
 THis is my first attempt, not quite right, still figuring out how to fix the second line on a tablet
 Thanks for reviewing!
 
-[index.html](module2-solution/index.html)
-[css/style.css](module2-solution/css/style.css)
+* [index.html](module2-solution/index.html)
+* [css/style.css](module2-solution/css/style.css)
 
 <a href="module2-solution/index.html" target="_blank">Show page</a>
