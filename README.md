@@ -9,4 +9,3 @@ Thanks for reviewing!
 * [index.html](module2-solution/index.html)
 * [css/style.css](module2-solution/css/style.css)
 
-<a href="module2-solution/index.html" target="_blank">Show page</a>
